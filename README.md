@@ -21,3 +21,7 @@ add_country_holidays('England')
 ```
 
 These are not editable by the user.
+
+## Editable Parameters
+
+The app can be used to forecast within limited time periods within one day. For example, you may want to forecast attendences only between the hours of 08:00 and 20:00. These can be configured in the app.
